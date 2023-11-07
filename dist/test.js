@@ -1,3 +1,5 @@
 "use strict";
-var test = "i am testing";
-console.log(test);
+{
+    var test = "i am testing";
+    console.log(test);
+}
